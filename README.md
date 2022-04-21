@@ -10,9 +10,7 @@ Hi, I’m Bastien ! After 5 years as mechanical engineer in automotive industry,
 
 <br>
 <h3> Connect with me :</h3>
-
-
-<img align = "left" width= "25px" src="./img/LinkedIn-Symbole.png" style = "padding-right :11px ;" />
+<a href = "https://www.linkedin.com/in/bastien-richasse-a6098b96/" <img align = "left" width= "25px" src="./img/LinkedIn-Symbole.png" style = "padding-right :11px ;" />
 
 
 <!---
