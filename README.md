@@ -9,7 +9,7 @@ Hi, I’m Bastien ! After 5 years as mechanical engineer in automotive industry,
 
 
 
-### Connect with me :
+[### Connect with me :
 [![img_contact](./img/LinkedIn-Symbole.png)](https://www.linkedin.com/in/bastien-richasse-a6098b96/)]
 
 <!---
