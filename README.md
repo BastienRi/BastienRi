@@ -8,7 +8,7 @@ Hi, I’m Bastien ! After 5 years as mechanical engineer in automotive industry,
 <img align = "left" width= "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style = "padding-right :11px ;" />
 
 
-
+<br>
 <h3> Connect with me :</h3>
 [![img_contact](./img/LinkedIn-Symbole.png)](https://www.linkedin.com/in/bastien-richasse-a6098b96/)]
 
