@@ -1,5 +1,3 @@
-Hi, I’m Bastien ! After 5 years as mechanical engineer in automotive industry, I decided to become a Data Scientist !
-
 ### Stack :
 <img align = "left" width= "35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style = "padding-right :11px ;" />
 <img align = "left" width= "35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style = "padding-right :11px ;" />
